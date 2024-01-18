@@ -1,0 +1,4 @@
+el flujo basico con git consiste en:
+1 hacer cambios en el repositorio
+2 añadir cambios a la zona de intercambio tempora
+3 hacer commit de los cambios
